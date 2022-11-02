@@ -1,3 +1,4 @@
 *.csv
 ./submission_files
 *.idea
+./mlruns*
