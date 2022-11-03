@@ -2,5 +2,11 @@
 submission_files/
 *.idea
 mlruns
+.xml
 
+#Add idea files
+.idea/
+*.iml
+*.ipr
+*.iws
 
