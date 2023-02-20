@@ -7,11 +7,11 @@
   - [📚 Introduction 📚](#-introduction-)
   - [🎉 Competitions Participated 🎉](#-competitions-participated-)
   - [📈 Competition Statistics 📈](#-competition-statistics-)
-- [add link to a github user profile:](#add-link-to-a-github-user-profile)
+  - [📁 Folder Structure 📁](#-folder-structure-)
 
 ## 📚 Introduction 📚
 
-Link to Competition: 
+Link to my Kaggle profile: [Here](https://www.kaggle.com/tomdanielgrande)
 
 
 ## 🎉 Competitions Participated 🎉
@@ -20,11 +20,20 @@ Link to Competition:
 
 ## 📈 Competition Statistics 📈
 
-| Competition | Rank | Score | Participants | Date | Team |
+| Competition | Rank | Top | Participants | Date | Team |
 | ---------- | ---- | ----- | ------------ | ---- | ---- |
-|  Competition 1 | 50 | 0.82 | 1000 | January 2022 | None |
-|  Competition 2 | 20 | 0.85 | 500 | March 2022 | 
-|  Competition 3 | 10 | 0.90 | 200 | May 2022 |
+|  Tabular Playground Series - Nov 2022  | 185 | 27% | 689 | Nov 2022 | None |
 
-# add link to a github user profile:
-[github]:
+
+## 📁 Folder Structure 📁
+
+```
+├── 2022_tps_nov                   <- Folder for the competition Tabular Playground Series - Nov 2022
+│   └── eda.ipynb                  <- Jupyter notebook for 
+|   └── README.md                  <- README file for the competition
+├── README.md                      <- README file for the project
+└── requirements.txt
+
+```
+
+
